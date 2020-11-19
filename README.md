@@ -6,6 +6,7 @@
 * **Predictive GPU-based ADAS Management in Energy-Conscious Smart Cities**
   - 2019 - IEEE International Smart Cities Conference (ISC2)
   - [Link](https://ieeexplore.ieee.org/document/9071685)
+  
 
-### [Researchgate profile](https://www.researchgate.net/profile/Jaime_Perez41)
 ### [Google Scholar profile](https://scholar.google.es/citations?user=kpmLQb4AAAAJ&hl)
+### [Researchgate profile](https://www.researchgate.net/profile/Jaime_Perez41)
